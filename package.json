@@ -1,0 +1,30 @@
+{
+  "name": "kukki",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node server/server.js",
+    "client": "cd client && npx vite",
+    "build": "cd client && npx vite build",
+    "dev:full": "concurrently \"npm run dev\" \"npm run client\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.13.6",
+    "body-parser": "^2.2.2",
+    "bs58": "^6.0.0",
+    "canvas": "^3.2.1",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "form-data": "^4.0.5",
+    "multer": "^2.1.1",
+    "openai": "^6.32.0",
+    "sql.js": "^1.14.1"
+  }
+}
