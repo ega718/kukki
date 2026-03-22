@@ -1,3 +1,6 @@
+ライセンスはega718のものです。応援したい人は、こちらのリンクからお願いします🙏
+https://pump.fun/coin/2rkKDduG1XVkiY6i1qpTx5gxN5RWCGCaEsE4wtympump
+
 # くっきーちゃん 🍪
 
 Xのバーチャルうさぎ
